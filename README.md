@@ -1,22 +1,60 @@
-## Bem-vindo(a) ao perfil da Gabriela ✨
+<h1 align="left">Hello world!👋🏼</h1>
 
- <div>
-   <a href="https://github.com/gabrielaoliveiramendes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielaoliveiramendes&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaoliveiramendes&layout=compact&langs_count=6&theme=date_night"/>
+###
+
+<h2 align="left">About me ✨</h2>
+
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/a4/04/a4/a404a481f48045b1a24cdbba5cc8d350.gif"  />
+
+###
+
+<p align="left">I'm Gabriela Mendes, Front-End developer graduated in Bussines School.<br>Looking for my first job opportunity in web development!</p>
+
+###
+
+<br clear="both">
+
+<h2 align="left">My stats 📍</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielaoliveiramendes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=date_night&locale=en&hide_border=false&order=1&custom_title=Gabriela's%20Github%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielaoliveiramendes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=date_night&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+
+###
+
+<h2 align="left">Languages 💻</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="35" alt="css3 logo"  />
 </div>
- 
-<br>
- 
-### Redes sociais
- 
-<div> 
-  <a href = "mailto:gabimendes7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabrielaoliveiramendes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+###
+
+<h2 align="left">Contact me 📞</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/gabiomendes/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="46" height="30" alt="instagram logo"  />
+  </a>
+  <a href="mailto:gabimendes7@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="46" height="30" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/gabrielaoliveiramendes" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="30" alt="linkedin logo"  />
+  </a>
 </div>
+
+###
